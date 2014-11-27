@@ -1,7 +1,7 @@
 al_agents CHANGELOG
 ==========================
 
-0.1.1
+0.2.0
 -----
 - [Evgeny Bob] - various minor fixes. Addition of Universal Agent recipe.
 
